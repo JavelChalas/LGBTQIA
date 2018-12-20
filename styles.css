@@ -1,0 +1,31 @@
+BODY {
+    text-align: center;
+ 
+}
+A HREF {
+    TEXT-ALIGN: CENTER;
+}
+.milk {
+    border: dotted black 2px;
+    padding: 10px;
+    margin: 9px;
+    background-color: yellow;
+    COLOR: BLUE;
+}
+H1 {
+    COLOR: LAVENDER;
+}
+H3 {
+    COLOR: PURPLE;
+}
+
+.header {
+   background: url('https://i.gifer.com/3sUw.gif');
+}
+
+.container {
+  background: url('http://pa1.narvii.com/6833/c059582fd223f47cda96a609174307c09dadb2d9_00.gif');
+  
+        background-size: cover;
+    
+}
