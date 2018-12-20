@@ -13,7 +13,7 @@ A HREF {
     COLOR: BLUE;
 }
 H1 {
-    COLOR: LAVENDER;
+    Color: red;
 }
 H3 {
     COLOR: PURPLE;
@@ -27,5 +27,16 @@ H3 {
   background: url('http://pa1.narvii.com/6833/c059582fd223f47cda96a609174307c09dadb2d9_00.gif');
   
         background-size: cover;
+        display: flex;
+        justify-content: space-around;
     
+}
+.P {
+    background-color: blue;
+}
+h4 {
+    margin: 10px;
+    padding: 10px;
+    border: solid black 5px;
+    background-color: red;
 }
